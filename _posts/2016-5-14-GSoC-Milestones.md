@@ -12,12 +12,12 @@ title: Goals GSoC'16 Journal Rethink Project
 	* Detail-View for each project
 	* Back button to switch back to traditional List-View <br><br>
 2. <b>Project View</b>
-	* Description box (*for the whole project here*)
+	* Description box
 	* Add Group members button
 	* Start-new-entry box (*more detail in #3*)
 	* List of group members
 	* List of files shared
-	* *"No Entries"* display *only if there are entries*
+	* *"No Entries"* display *only if there are no entries*
 	* Detail View for each entry<br><br>
 3. <b>Start New Entry</b>
 	* A button to start a new shared activity
