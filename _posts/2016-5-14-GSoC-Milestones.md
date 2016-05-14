@@ -5,6 +5,10 @@ title: Goals GSoC'16 Journal Rethink Project
 
    A project to make Journal support project based activities in school
 
+<b>Pre-GSoC</b> <br>
+	* Get modal popups code merged into sugar3<br>
+	* Fix comments on the send-to-multiple code
+
 ## Features Planned:
 1. <b>Project List View</b> 
 	* List-View for list of projects
