@@ -27,4 +27,9 @@ title: Goals GSoC'16 Journal Rethink Project
 	* A button to start a new shared activity
 	* A text box to force user to give title to new shared activity 
 	* Object Chooser View for Home View<br><br>
-4. <b>Integrate Chat Activity to Mini-journal or project </b>
+
+4. <b>File Syncing</b>
+	* Sync files when user doesn't have the activity running!
+	* Update notification bar for the changes occurred.<br><br>
+
+5. <b>Integrate Chat Activity to Mini-journal or project </b>
