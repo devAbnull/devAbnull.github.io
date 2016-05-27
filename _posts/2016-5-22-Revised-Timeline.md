@@ -15,7 +15,7 @@ I have revised my timeline a bit more in detial about how to proceed with each a
 |    (2 days)  || * Design metadata for *project* having activity-type = 'project' |
 |              ||    use array for storing object_id's of activities under project |
 |              ||                                                                  |
-|    (2 days)  || * Detail-View for each project                                   |
+|    (2 days)  || * Detail-View for each project (Note: sorry no need, the preesent detail-view for entries in journal)                              |
 |              ||                                                                  |
 | **30 May - 11 June** || * **Project-View** |
 |   (2 days)   || * Planning |
