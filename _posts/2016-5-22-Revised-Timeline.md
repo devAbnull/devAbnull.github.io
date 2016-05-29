@@ -4,6 +4,7 @@ title: Revising the Timeline
 ---
 
 I have revised my timeline a bit more in detial about how to proceed with each and every feature.
+My progress can be tracked on [gsoc-projectlist-view](https://github.com/sugarlabs/sugar/compare/master...AbrahmAB:gsoc-projectlist-view) branch
 
 | **Days/Week**|| **Tasks**                                                        |
 |--------------||------------------------------------------------------------------|
