@@ -11,7 +11,7 @@ My progress can be tracked on [gsoc-projectlist-view](https://github.com/sugarla
 | **23 May - 28 May**||       * **Project-List View**                              | 
 |    (2 days)  || * Planning |
 |              || * Add New Project Button |
-|              || * back button   |
+|              || * Back button   |
 |              ||                                                                  |
 |    (2 days)  || * Design metadata for *project* having activity-type = 'project' |
 |              ||    use array for storing object_id's of activities under project |
