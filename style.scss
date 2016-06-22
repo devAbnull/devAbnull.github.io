@@ -18,9 +18,9 @@ html {
 }
 
 body {
-	background: #dcdcdc;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
+	background: #white;
+  font: 17px/1.5 $helvetica;
+  color: $black;
 }
 
 .container {
@@ -127,8 +127,8 @@ img {
   background: $lightGray;
 }
 ::selection {
-  color: $black;
-  background: $lightGray;
+  color: $white;
+  background: $black;
 }
 
 // Nicolas Gallagher's micro clearfix hack
@@ -157,11 +157,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
-
-  @include mobile {
-    text-align: center;
-  }
+  border-bottom: 1px solid $black;
 }
 
 .site-avatar {
@@ -244,7 +240,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid $black;
 }
 
 .posts > .post:last-child {
@@ -255,7 +251,7 @@ nav {
 .post {
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid $gray;
+    border-left: 2px solid $lightGray;
     padding: 0.1em 1em;
     color: $gray;
     font-size: 22px;
@@ -276,7 +272,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: $white;
 }
 
 footer {
