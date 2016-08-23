@@ -3,7 +3,7 @@ layout: post
 title: GSOC Final Submissions
 ---
 
-The project was about adding Project View a platform for project-based activities.
+The project was about adding Project View a platform for project-based activities. It also included improving the collab system of Sugar
 
 Brief Description
 -----------------
@@ -11,11 +11,11 @@ Brief Description
 
 The commits link are given below:
 
-* Added new popwindow module in sugar3.graphics[sugar-toolkit-gtk3](https://github.com/sugarlabs/sugar-toolkit-gtk3/pull/313/commits)
+* Added new popwindow module in sugar3.graphics [sugar-toolkit-gtk3](https://github.com/sugarlabs/sugar-toolkit-gtk3/pull/313/commits)
 
-* Journal Project View[sugar](https://github.com/sugarlabs/sugar/pull/697/commits)
+* Journal Project View [sugar](https://github.com/sugarlabs/sugar/pull/697/commits)
 
-* Filter using project_id[sugar-datastore](https://github.com/sugarlabs/sugar-datastore/pull/6/commits)
+* Filter using project_id [sugar-datastore](https://github.com/sugarlabs/sugar-datastore/pull/6/commits)
 
 * Project icon added to icons/scalable/mimetypes[sugar-artwork](https://github.com/sugarlabs/sugar-artwork/pull/91/commits)
 
