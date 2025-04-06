@@ -16,41 +16,40 @@ Basic layout for my site.
 
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <th colspan="2" style="text-align: center; font-size: 1.5em; border: 1px solid #000; padding: 10px;">
+    <th colspan="2" style="text-align: center; font-size: 1.5em; border: 1px dotted #000; padding: 10px;">
       Website plan 📋
     </th>
   </tr>
   <tr>
-    <td colspan="2" style="border: 1px solid #000; padding: 10px;">
+    <td colspan="2" style="border: 1px dotted #000; padding: 10px;">
       Abhinam Travel dreams
     </td>
   </tr>
   <tr>
-    <td colspan="2" style="border: 1px solid #000; padding: 10px;">
-      A curated list of dream destinations we'd love to explore — from hidden gems to iconic landmarks. This is our little corner to track, dream, and get inspired for future adventures. Every place here is a promise to myself: to wander more, to learn deeply, and to never stop exploring.
+    <td colspan="2" style="border: 1px dotted #000; padding: 10px;">
+      A curated list of dream destinations we'd love to explore — from hidden gems to iconic landmarks. 
+      This is our little corner to track, dream, and get inspired for future adventures. Every place here 
+      is a promise to myself: to wander more, to learn deeply, and to never stop exploring.
     </td>
   </tr>
   <tr>
-    <td colspan="2" style="border: 1px solid #000; padding: 10px;">Place 1 title</td>
+    <td colspan="2" style="border: 1px dotted #000; padding: 10px;">Place 1 title</td>
   </tr>
   <tr>
-    <td style="border: 1px solid #000; padding: 10px;">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut 
-      labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco 
-      laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in 
-      voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat 
-      non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+    <td style="border: 1px dotted #000; padding: 10px;">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore 
+      et dolore magna aliqua.
     </td>
-    <td style="border: 1px solid #000; padding: 10px; text-align: center; vertical-align: center;">Photo</td>
+    <td style="border: 1px dotted #000; padding: 10px; text-align: center;">Photo</td>
   </tr>
   <tr>
-    <td colspan="2" style="border: 1px solid #000; padding: 10px;">Place 2 title</td>
+    <td colspan="2" style="border: 1px dotted #000; padding: 10px;">Place 2 title</td>
   </tr>
   <tr>
-    <td colspan="2" style="border: 1px solid #000; padding: 10px;">Place 3 title</td>
+    <td colspan="2" style="border: 1px dotted #000; padding: 10px;">Place 3 title</td>
   </tr>
   <tr>
-    <td colspan="2" style="border: 1px solid #000; padding: 10px;">Place 4 title</td>
+    <td colspan="2" style="border: 1px dotted #000; padding: 10px;">Place 4 title</td>
   </tr>
 </table>
 
